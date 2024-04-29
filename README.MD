@@ -139,6 +139,8 @@ Criamos um resumo do estudo com uma análise exploratória dos dados e uma pági
 
 ![alt text](images/cardio_disease_model.gif)
 
+[Deploy no Streamlit com o modelo e análise dos dados](https://cardiodiseaseprediction.streamlit.app/)
+
 # 8. Conclusões
 Com a análise de dados feita de forma sucinta e escolhendo bem os métodos conseguimos construir um modelo de predição de doenças cardiovasculares.
 Segundo dados da OPAS e OMS, problemas cardiovasculares são a principal causa de mortes no mundo, assim, uma ferramenta como essa pode ajudar a salvar vidas e baratear o sistema de saúde. Medidas simples como o controle da pressão arterial e manutenção de um IMC dentro da faixa de normalidade já trazem muitos benefícios.
